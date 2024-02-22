@@ -49,4 +49,4 @@ ipyevents>=2.0.1
 
 pandas
 plotly
-kaleida
+kaleido
