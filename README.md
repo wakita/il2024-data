@@ -1,29 +1,27 @@
-# JupyterLite Demo
+# 情報リテラシの実習教材
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+本サイトは東京工業大学で開講される情報リテラシ第二の実習の一部をウェブブラウザで簡易的に体験するために提供しています。授業においては、演習室に整えられた実習環境を用いた授業を実施します。本サイトは教員の事前準備と学生の授業外の復習を助ける目的で設置しています。
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
-
-## ✨ Try it in your browser ✨
+## ✨ パソコンのブラウザで以下のリンクを開くと実習を体験できます ✨
 
 ➡️ **https://wakita.github.io/il2024-data/lab/**
+
+スマホでの動作は保障しません。おそらくメモリ不足でうまく動作しないでしょう。
 
 
 ## Requirements
 
-JupyterLite is being tested against modern web browsers:
+以下のブラウザでの動作を確認してあります。
 
-- Firefox 90+
-- Chromium 89+
+- Google Chrome
+- Brave Browser
 
 
-## Deploy your JupyterLite website on GitHub Pages
+## 本システムは JupyterLite を用いて提供しています
 
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
+JupyterLite についてのドキュメントはこちらから: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
-## Further Information and Updates
+さらに詳しいドキュメントはこちらから:
 
-For more info, keep an eye on the JupyterLite documentation:
-
-- How-to Guides: https://jupyterlite.readthedocs.io/en/latest/howto/index.html
-- Reference: https://jupyterlite.readthedocs.io/en/latest/reference/index.html
+- [How-to Guides](https://jupyterlite.readthedocs.io/en/latest/howto/index.html)
+- [Reference](https://jupyterlite.readthedocs.io/en/latest/reference/index.html)
